@@ -1,25 +1,11 @@
-// Fichier :     Savane.java
-// Création:     2022.03.03
-// Auteur :      francois.major@umontreal.ca
-//
-// Ce code n'est pas protégé par un copyright.
-// 
-// Historique :
-//  Créé pour le cours IFT1025 H22
-//
 
 /**
    class Savane
     implements TP1Stats
 
-   @author <A HREF="mailto:francois.major@umontreal.ca">François Major</A>
-   @version $Revision: 1.0 $ $Date: 2022/03/03 $
-   @see 
 **/
 
 /**
-     TP1 - IFT1025
-     noms et prénoms des coéquipier(s)
 
      This class simulates the cycles of life of a simple savane
      composed of: herb and animals (lions and Antelopes),

@@ -1,19 +1,7 @@
-// Fichier :     ProiePredateur.java
-// Création:     2022.03.03
-// Auteur :      francois.major@umontreal.ca
-//
-// Ce code n'est pas protégé par un copyright.
-// 
-// Historique :
-//  Créé pour le cours IFT1025 H22
-//
 
 /**
    interface ProiePredateur
 
-   @author <A HREF="mailto:francois.major@umontreal.ca">François Major</A>
-   @version $Revision: 1.0 $ $Date: 2022/03/03 $
-   @see 
 **/
 
 public interface ProiePredateur {
